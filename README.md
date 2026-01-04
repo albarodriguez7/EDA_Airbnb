@@ -1,3 +1,5 @@
+![alt text](src/img/logoAirbnb.png)
+
 Este proyecto sobre un **Análisis Exploratorio de Datos (EDA)** de Airbnb trata de dar respuesta a preguntas que todos nos hemos planteado alguna vez a la hora de elegir un lugar donde alojarnos cuando salimos de nuestra casa.
 
 Con este análisis queremos ayudar a las personas a comprender cómo varían los precios de los alojamientos y qué factores influyen en ellos. Muchos de estos factores son clave a la hora de establecer los precios y no solo están relacionados con el alojamiento en sí, sino también con factores externos que no siempre son visibles y resultan muy determinantes.
