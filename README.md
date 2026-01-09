@@ -24,12 +24,32 @@ A continuación, se presenta una serie de hipótesis que servirán para conocer 
 - Numpy  
 - Pandas  
 - Matplotlib.pyplot  
+- Seaborn
 
 ---
 
 ## Estructura del repositorio
 
-*(Por definir)*
+La estructura del repositorio es la siguiente:
+
+```plaintext
+📁 src
+ ├─ 📁 data
+ │   └─ EDA_data_airbnb_madrid.csv
+ │   └─ airbnb_madrid_clean_final.csv
+ │   └─ data_airbnb_madrid.csv
+ ├─ 📁 img
+ ├─ 📁 notebooks
+ │   ├─ Creacion_data_airbnb_madrid.ipynb
+ │   ├─ Gráficas_más_visuales.ipynb
+ │   ├─ Limpieza_datos.ipynb
+ └─  └─ Seaborn.ipynb
+
+
+Memoria.pdf
+Presentacion.pdf
+README.md
+main.ipynb
 
 ---
 
