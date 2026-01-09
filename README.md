@@ -41,12 +41,17 @@ A continuación, se presenta una serie de hipótesis que servirán para conocer 
 
 ## Principales conclusiones
 
-*(Por definir)*
+- El precio de los alojamientos varía significativamente según el barrio, confirmando la influencia de la localización.
+- El tipo de alojamiento es un factor determinante: las viviendas completas presentan precios más elevados que las habitaciones.
+- Los alojamientos con mayor capacidad tienden a tener precios más altos.
+- Existe una relación moderada entre precio y valoraciones, aunque no es especialmente fuerte.
+- Los anfitriones verificados suelen ofrecer alojamientos con precios más elevados.
+- El número mínimo de noches influye en el precio por noche del alojamiento.
 
 ---
 
 ## Autores
 
-- **Carlos D'Olhaberriague**
+- **Carlos D'Olhaberriague** → <https://github.com/Carlos72293>
 - **Alba Rodríguez** → <https://github.com/albarodriguez7>
 - **Francisco Rubio** → <https://github.com/franrubiorubio>
