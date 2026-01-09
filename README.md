@@ -32,7 +32,6 @@ A continuación, se presenta una serie de hipótesis que servirán para conocer 
 
 La estructura del repositorio es la siguiente:
 
-```plaintext
 📁 src
  ├─ 📁 data
  │   └─ EDA_data_airbnb_madrid.csv
