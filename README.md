@@ -32,27 +32,27 @@ A continuación, se presenta una serie de hipótesis que servirán para conocer 
 
 La estructura del repositorio es la siguiente:
 
-src/
-- data/
-  - EDA_data_airbnb_madrid.csv
-  - airbnb_madrid_clean_final.csv
-  - data_airbnb_madrid.csv
-- img/
-- notebooks/
-  - Creacion_data_airbnb_madrid.ipynb
-  - Gráficas_más_visuales.ipynb
-  - Limpieza_datos.ipynb
-  - Seaborn.ipynb
+- src/
+    - data/
+        - EDA_data_airbnb_madrid.csv
+        - airbnb_madrid_clean_final.csv
+        - data_airbnb_madrid.csv
+    - img/
+    - notebooks/
+        - Creacion_data_airbnb_madrid.ipynb
+        - Gráficas_más_visuales.ipynb
+        - Limpieza_datos.ipynb
+        - Seaborn.ipynb
 
-Memoria.pdf
-Presentacion.pdf
-README.md
-main.ipynb
+- Memoria.pdf
+- Presentacion.pdf
+- README.md
+- main.ipynb
 ---
 
 ## Instrucciones de reproducción
 
-*(Por definir)*
+Para poder reproducir el proyecto, unicamente hay que ejecutar los notebooks y todo funcionará sin tener que añadir nada. Esto es gracias a que todos los csv utilizados se encuentran en la carpeta de src, por lo tanto al inicio de cada notebook se lee el archivo que vayamos a utilizar y ya funcionará todo el código sin problema. 
 
 ---
 
