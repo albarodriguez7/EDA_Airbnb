@@ -44,9 +44,9 @@ src/
   - Limpieza_datos.ipynb
   - Seaborn.ipynb
 
-Memoria.pdf  
-Presentacion.pdf  
-README.md  
+Memoria.pdf
+Presentacion.pdf
+README.md
 main.ipynb
 ---
 
